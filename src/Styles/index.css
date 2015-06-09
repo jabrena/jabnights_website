@@ -1,9 +1,15 @@
 body {
-    background-color: #000000;
+    /* background-color: #000000; */
+    margin:0px; 
+    overflow:hidden;
 }
 
 div.container{
 	text-align: center;
+	z-index: 99;
+	position: absolute; 
+	left:2px; 
+	top:2px;
 }
 
 .container h1{
