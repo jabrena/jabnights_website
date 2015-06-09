@@ -1,0 +1,28 @@
+{
+  "name": "jabnights",
+  "version": "0.1.0",
+  "description": "Landing page for JABNIGHTS",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "default": "init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jabrena/jabnights_website.git"
+  },
+  "keywords": [
+    "jabnights"
+  ],
+  "author": "Juan Antonio Breña Moral",
+  "bugs": {
+    "url": "https://github.com/jabrena/jabnights_website/issues"
+  },
+  "homepage": "https://github.com/jabrena/jabnights_website",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

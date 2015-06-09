@@ -1,0 +1,24 @@
+{
+  "name": "jabnights",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jabrena/jabnights_website",
+  "authors": [
+    "Juan Antonio Breña Moral <bren@juanantonio.info>"
+  ],
+  "description": "Landing page for JABNIGHTS",
+  "main": "index.html",
+  "keywords": [
+    "jabnights"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.3"
+  }
+}
